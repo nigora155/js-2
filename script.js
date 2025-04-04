@@ -1,0 +1,5 @@
+let ism = prompt('ISmingizni kiriting')
+let familia = prompt('familiangizni kiriting')
+let yosh= prompt('yoshingizni kiriting')
+confirm('rozimisan')
+let oxirgi = alert(`ismingiz ${ism} sozi  ${typeof(ism)}  typega kiradi`)
